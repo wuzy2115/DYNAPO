@@ -1,5 +1,5 @@
 # Dynapo
-![Dynapo](./teaser.pdf)
+![Dynapo](teaser.png)
 
 This code accompanies the paper \
 **The Dynamic Prior: Understanding 3D Structures for Casual Dynamic Videos**\
